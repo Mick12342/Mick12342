@@ -1,5 +1,5 @@
 # Hi there 👋
-- 🔭 I’m currently working on school
+- 🔭 ***I’m currently working on school***
 - 🌱 I’m currently learning **Intro to computer science**
 - I love with __basketball__
 - I'm from __Amman, Jordan__
